@@ -11,6 +11,15 @@ import java.util.logging.Logger;
 
 public class Interfaces {
 
+    /**
+     * 
+     * 
+     * ESTA PARTE NO FORMA PARTE DE LA PRACTICA 
+     * 
+     * 
+     * @param args
+     * @throws UnknownHostException 
+     */
     public static void main(String[] args) throws UnknownHostException {
 
         try {
